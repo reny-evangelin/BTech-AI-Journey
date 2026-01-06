@@ -1,2 +1,2 @@
 # BTech-AI-Journey
-"Documenting my 4-month accelerated sprint into Python and AI-DS foundations."
+"Architecting a foundation in Python and AI-DS through intensive, project-driven exploration."
